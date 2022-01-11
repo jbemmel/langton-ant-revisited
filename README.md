@@ -22,3 +22,37 @@ Alternative RLE: Initial direction, then '1' for right turn or '0' for left turn
      ----     ----  ----    ----  ----++++    ----++++  ---- ----++++  ----      ----    ----
 ```
 (never 5 times in a row the same turn)
+
+## Loop reduction
+14 loops collapsed, removing 14*4=56 turns leaving 104-56=48
+```
+10100111100100111100111100101111010000111101101111000010111101111000010111101001100001100111100110100100
+101000010000001001011010010010011110000110100100
+4 secondary loops, leaving 48-4*4=32:
+10110010010110100100100110100100
+```
+
+```
+ESESWSENWNENESENWSWNWSENESESENWSWSWNESENWSWSESENWSWNESESENWSWSENWNESWSWSENWNWNENWNESWSESWSENWNENWNWNENES
+ESESWNENESWNESESWSWSESESWSWNWNENWSESWNENWNWNENES
+ESENESESWSWSESESWSWNWNENWNWNENES
+```
+
+Impression of the resulting path:
+```
+        🡢   🡢
+		 🡣 🡡 🡣
+		  🡢🡢  🡢 
+		  🡡 🡣  🡣
+		 🡢	   🡠
+		🡡	  🡣
+		 🡠	 🡠
+		  🡡	🡣
+		   🡠 🡢
+			🡡 🡣
+		   🡢   🡢
+		  🡡	    🡣
+		   🡠   🡠
+			🡡 🡣
+			 🡠
+```
