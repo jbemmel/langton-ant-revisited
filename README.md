@@ -40,7 +40,7 @@ ESENESESWSWSESESWSWNWNENWNWNENES
 
 Impression of the resulting path:
 ```
-        🡢   🡢
+                🡢   🡢
 		 🡣 🡡 🡣
 		  🡢🡢  🡢 
 		  🡡 🡣  🡣
@@ -48,11 +48,11 @@ Impression of the resulting path:
 		🡡	  🡣
 		 🡠	 🡠
 		  🡡	🡣
-		   🡠 🡢
-			🡡 🡣
-		   🡢   🡢
-		  🡡	    🡣
-		   🡠   🡠
-			🡡 🡣
-			 🡠
+		   🡠   🡢
+	            🡡   🡣
+		   🡢    🡢
+		    🡡	  🡣
+		     🡠  🡠
+		      🡡 🡣
+		       🡠
 ```
