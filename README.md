@@ -17,7 +17,8 @@ W: 25
 Net displacement: 2*E, 2*S
 
 Alternative RLE: Initial direction, then '1' for right turn or '0' for left turn:
+```
 10100111100100111100111100101111010000111101101111000010111101111000010111101001100001100111100110100100
      ----     ----  ----    ----  ----++++    ----++++  ---- ----++++  ----      ----    ----
-
+```
 (never 5 times in a row the same turn)
