@@ -8,6 +8,7 @@ His article on ["Studying Artifical Life with Cellular Automata"](https://deepbl
 The original algorithm uses a (bounded) 2D grid for the virtual ant ('vant'). In this implementation, it is replaced with a 1-dimensional array (implemented as a Python dictionary with integers as keys); directions (N)orth and (S)outh are implemented as increases/decreases of a fixed 'width'; it was found that a width of 48 is minimally required to keep the pattern from interfering with itself.
 
 ![image](https://user-images.githubusercontent.com/2031627/149033044-b217e17a-c746-43a9-b3ab-407cae59d653.png)
+Sample 10 by 10 array; to go 'North' from 45, subtract 10
 
 # Output: Repeating cycle of 104 steps
 First occurence (104) after 10184 iterations, 14 loops highlighted
