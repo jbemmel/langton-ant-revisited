@@ -5,8 +5,10 @@ His article on ["Studying Artifical Life with Cellular Automata"](https://deepbl
 
 # Output: Repeating cycle of 104 steps
 First occurence (104) after 10184 iterations, 14 loops highlighted
+```
 ESESWSENWNENESENWSWNWSENESESENWSWSWNESENWSWSESENWSWNESESENWSWSENWNESWSWSENWNWNENWNESWSESWSENWNENWNWNENES
     -----    ----- -----   ----  ----+++++   ----+++++ -----++++----- -----     -----   -----
+```
 N: 25
 E: 27
 S: 27
