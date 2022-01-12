@@ -3,6 +3,8 @@
 In 1986 computer scientist Chris Langton came up with a way to illustrate the emergence of complex behavior out of a (seemingly) simple set of rules.
 His article on ["Studying Artifical Life with Cellular Automata"](https://deepblue.lib.umich.edu/bitstream/2027.42/26022/1/0000093.pdf) describes the details.
 
+![image](https://user-images.githubusercontent.com/2031627/149040592-ea2d20e3-533f-424e-a893-60ad88c94b03.png)
+
 ![image](https://user-images.githubusercontent.com/2031627/149033490-b0e5f63f-bdb8-483c-a483-51f72a15af3a.png)
 
 # Data structures
